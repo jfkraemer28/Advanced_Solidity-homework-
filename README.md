@@ -13,7 +13,7 @@ Spender Address: 0xB812eAf68b858Dee81F70B29e6451a7f76557A3f
 ## PupperCoinCrowdsale.sol
 The solidity smart contract for PupperCoinCrowdsale.sol is compiled.
 
-![remix_1](Images/remix1.PNG)
+![remix_1](Images/remix1.png)
 
 Smart contract for PupperCoinCrowdsale.sol is deployed.
 
