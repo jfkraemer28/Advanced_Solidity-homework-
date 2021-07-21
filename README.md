@@ -13,19 +13,19 @@ Spender Address: 0xB812eAf68b858Dee81F70B29e6451a7f76557A3f
 ## PupperCoinCrowdsale.sol
 The solidity smart contract for PupperCoinCrowdsale.sol is compiled.
 
-![remix_1](Images/remix1.png)
+![remix_1](Images/Remix1.PNG)
 
 Smart contract for PupperCoinCrowdsale.sol is deployed.
 
-![remix_2](Images/remix2.PNG)
-![remix_3](Images/remix3.PNG)
-![remix_4](Images/remix4.PNG)
+![remix_2](Images/Remix2.PNG)
+![remix_3](Images/Remix3.PNG)
+![remix_4](Images/Remix4.PNG)
 
 New minter is added to the contract (account #0x1ab64668166de19E0A97E077A7f959aCF96997B4)
 
-![remix_5](Images/remix5.PNG)
-![remix_6](Images/remix6.PNG)
-![remix_7](Images/remix7.PNG)
-![remix_8](Images/remix8.PNG)
-![remix_9](Images/remix9.PNG)
+![remix_5](Images/Remix5.PNG)
+![remix_6](Images/Remix6.PNG)
+![remix_7](Images/Remix7.PNG)
+![remix_8](Images/Remix8.PNG)
+![remix_9](Images/Remix9.PNG)
 
